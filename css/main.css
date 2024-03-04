@@ -24,7 +24,7 @@ body {
     color: #999;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: #292929;
+    background-color: #640187;
 }
 p {
     font-family: 'Open Sans', sans-serif;
@@ -653,6 +653,18 @@ h6 {
 }
 .owl-theme .owl-dots .owl-dot:hover span{
     background-color: #cba982;
+}
+
+.ti-github{
+    font-size: 40px;
+}
+
+.ti-instagram{
+    font-size: 40px;
+}
+
+.ti-linkedin{
+    font-size: 40px;
 }
 
 /* ==========================================================================
