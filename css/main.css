@@ -31,7 +31,7 @@ p {
     font-size: 15px;
     line-height: 26px;
     font-weight: 400;
-    color: #999;
+    color: #ffffff;
     margin-bottom: 20px;
 }
 img {
@@ -116,7 +116,7 @@ h6 {
     background: #fff;
 }
 ::-webkit-scrollbar-thumb {
-    background: #292929;
+    background: #ffffff;
 }
 ::-webkit-scrollbar-thumb:hover {
     background: #292929;
@@ -124,15 +124,15 @@ h6 {
 
 /* selection */
 ::-webkit-selection {
-    color: #999;
+    color: #ffffff;
     background: rgba(0, 0, 0, 0.1);
 }
 ::-moz-selection {
-    color: #999;
+    color: #ffffff;
     background: rgba(0, 0, 0, 0.1);
 }
 ::selection {
-    color: #999;
+    color: #ffffff;
     background: rgba(0, 0, 0, 0.1);
 }
 
@@ -937,3 +937,7 @@ footer p a {
         animation-delay: 1s;
     }
 }
+
+/* .intro-p{
+    text:#fff;
+} */
